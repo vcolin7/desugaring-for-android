@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation. All rights reserved.
+// Licensed under the MIT License.
+
 package com.vcolin7.desugaring;
 
 import androidx.appcompat.app.AppCompatActivity;
